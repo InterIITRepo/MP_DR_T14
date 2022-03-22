@@ -6,6 +6,10 @@ The GitHub repository for DRDO's UAV-Guided UGV Navigation Challenge of Inter-II
 - Clone this repository in the `src` folder of your catkin workspace.
 - Inside your workspace folder, run `catkin build`.
 - Download this [file](https://drive.google.com/file/d/1KeiyFDvNub4L3TZ1F-H8IdRdSsqZHE00/view?usp=sharing) and place it in `catkin_ws/src/MP_DR_T14/interiit22/scripts/`
+- To install dependencies
+  ```
+  rosdep install --from-paths src --ignore-src -r -y
+  ```
 - To run Gazebo simulation
   - For world 1
     ```

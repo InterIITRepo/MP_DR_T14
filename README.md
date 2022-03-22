@@ -23,9 +23,3 @@ The GitHub repository for DRDO's UAV-Guided UGV Navigation Challenge of Inter-II
   ```
   sim_vehicle.py -v ArduCopter -f gazebo-iris --console
   ```
-- In the same terminal after GPS calibration, run the following
-  ```
-  mode guided
-  arm throttle
-  takeoff 10
-  ```

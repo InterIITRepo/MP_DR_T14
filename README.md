@@ -1,5 +1,6 @@
 # MP_DR_T14
-The GitHub repository for DRDO's UAV-Guided UGV Navigation Challenge of Inter-IIT Tech Meet 10.0. Our complete approach and solution is explained [here](https://iitbhuacin-my.sharepoint.com/:w:/g/personal/sandeepan_ghosh_ece20_iitbhu_ac_in/EbsDfo04ggBPtL9a3DR9iwYBga773sflMyhFvha8KDkgPA?e=E083aS)
+The GitHub repository for DRDO's UAV-Guided UGV Navigation Challenge of Inter-IIT Tech Meet 10.0. Our complete approach and solution is explained [here](https://drive.google.com/file/d/1BoLnpm_vrVwxSM5Zx2mncTXqMaLPVXrA/view?usp=sharing).
+
 
 ## Installation Instructions
 
